@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [25/May/2019:17:48:55 +0530] "GET / HTTP/1.1" 302 - http-bio-8080-exec-1 278
+0:0:0:0:0:0:0:1 - - [25/May/2019:17:48:55 +0530] "GET /login HTTP/1.1" 200 535 http-bio-8080-exec-2 13
+0:0:0:0:0:0:0:1 - - [25/May/2019:17:49:08 +0530] "POST /login HTTP/1.1" 302 - http-bio-8080-exec-3 639
+0:0:0:0:0:0:0:1 - - [25/May/2019:17:49:09 +0530] "GET / HTTP/1.1" 200 869 http-bio-8080-exec-4 803
+0:0:0:0:0:0:0:1 - - [25/May/2019:17:49:10 +0530] "GET /webjars/bootstrap/3.3.6/js/bootstrap.min.js HTTP/1.1" 200 36868 http-bio-8080-exec-6 147
+0:0:0:0:0:0:0:1 - - [25/May/2019:17:49:10 +0530] "GET /webjars/jquery/1.9.1/jquery.min.js HTTP/1.1" 200 92629 http-bio-8080-exec-7 155
+0:0:0:0:0:0:0:1 - - [25/May/2019:17:49:10 +0530] "GET /webjars/bootstrap/3.3.6/css/bootstrap.min.css HTTP/1.1" 200 121260 http-bio-8080-exec-5 388
+0:0:0:0:0:0:0:1 - - [25/May/2019:17:49:16 +0530] "GET /showEmployee HTTP/1.1" 200 1805 http-bio-8080-exec-10 1840
+0:0:0:0:0:0:0:1 - - [25/May/2019:17:49:17 +0530] "GET /webjars/bootstrap/3.3.6/js/bootstrap.min.js HTTP/1.1" 200 36868 http-bio-8080-exec-10 10
+0:0:0:0:0:0:0:1 - - [25/May/2019:17:49:17 +0530] "GET /webjars/bootstrap/3.3.6/css/bootstrap.min.css HTTP/1.1" 200 121260 http-bio-8080-exec-9 17
+0:0:0:0:0:0:0:1 - - [25/May/2019:17:49:17 +0530] "GET /webjars/jquery/1.9.1/jquery.min.js HTTP/1.1" 200 92629 http-bio-8080-exec-8 27
